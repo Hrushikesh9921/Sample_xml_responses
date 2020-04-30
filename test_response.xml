@@ -1,0 +1,39 @@
+<VAST version="2.0">
+	<Ad id="HD-01">
+        <InLine>
+            <AdSystem>2.0</AdSystem>
+            <Error><![CDATA[https://example.com/error]]></Error>
+            <AdTitle>HD_Test_VIDEO_XML</AdTitle>
+            <AdServingId>a532d16d-4d7f-4440-bd29-2ec0e693fc80</AdServingId>
+            <Impression id="HD-Impression-ID"><![CDATA[https://example.com/track/impression]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Liner>
+                        <Duration>00:00:12.123</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">http://example.com/tracking/start</Tracking>
+                            <Tracking event="firstQuartile">http://example.com/tracking/firstQuartile</Tracking>
+                            <Tracking event="midpoint">http://example.com/tracking/midpoint</Tracking>
+                            <Tracking event="thirdQuartile">http://example.com/tracking/thirdQuartile</Tracking>
+                            <Tracking event="complete">http://example.com/tracking/complete</Tracking>
+                            <Tracking event="progress" offset="00:00:10">http://example.com/tracking/progress-10</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+						    <MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive" apiFramework="VPAID">
+							    <![CDATA[http://techslides.com/demos/sample-videos/small.mp4]]>
+						    </MediaFile>
+					    </MediaFiles>
+                        <VideoClicks>
+                            <ClickThrough id="HD-CLICKTHROUGH-ID">
+                                <![CDATA[https://iabtechlab.com]]>
+                            </ClickThrough>
+                           <ClickTracking>
+                                <![CDATA[http://example.com/trackingurl/clickTracking]]>
+                            </ClickTracking>
+                        </VideoClicks>
+                    </Liner>
+                </Creative>
+            </Creatives>
+       </InLine>
+	</Ad>
+</VAST>
