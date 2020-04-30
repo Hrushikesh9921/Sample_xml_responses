@@ -19,10 +19,10 @@
                             <Tracking event="progress" offset="00:00:10">http://example.com/tracking/progress-10</Tracking>
                         </TrackingEvents>
                         <MediaFiles>
-						    <MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive" apiFramework="VPAID">
-							    <![CDATA[http://techslides.com/demos/sample-videos/small.mp4]]>
-						    </MediaFile>
-					    </MediaFiles>
+				<MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive" apiFramework="VPAID">
+					<![CDATA[http://techslides.com/demos/sample-videos/small.mp4]]>
+				</MediaFile>
+			</MediaFiles>
                         <VideoClicks>
                             <ClickThrough id="HD-CLICKTHROUGH-ID">
                                 <![CDATA[https://iabtechlab.com]]>
