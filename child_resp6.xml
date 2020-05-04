@@ -27,10 +27,10 @@
               <MediaFile id="5241" delivery="progressive" type="video/mp4" bitrate="2100" width="1280" height="720" minBitrate="1500" maxBitrate="2500" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VPAID">
                 <![CDATA[https://iabtechlab.com/wp-content/uploads/2016/07/VAST-4.0-Short-Intro.mp4]]>
               </MediaFile>
-              <MediaFile id="5244" delivery="progressive" type="video/mp4" bitrate="1200" width="854" height="480" minBitrate="700" maxBitrate="1500" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VPAID">
+              <MediaFile id="5244" delivery="progressive" type="video/mp4" bitrate="1200" width="854" height="480" minBitrate="700" maxBitrate="1500" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="vpaid">
                 <![CDATA[https://iabtechlab.com/wp-content/uploads/2017/12/VAST-4.0-Short-Intro-mid-resolution.mp4]]>
               </MediaFile>
-              <MediaFile id="5246" delivery="progressive" type="video/mp4" bitrate="630" width="640" height="360" minBitrate="500" maxBitrate="700" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VPAID">
+              <MediaFile id="5246" delivery="progressive" type="video/mp4" bitrate="630" width="640" height="360" minBitrate="500" maxBitrate="700" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="SIMID">
                 <![CDATA[https://iabtechlab.com/wp-content/uploads/2017/12/VAST-4.0-Short-Intro-low-resolution.mp4]]>
               </MediaFile>
             </MediaFiles>
