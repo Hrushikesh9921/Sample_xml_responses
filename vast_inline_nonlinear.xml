@@ -19,13 +19,13 @@
             </TrackingEvents>
             <NonLinear height="50" width="300" minSuggestedDuration="00:00:15">
               <StaticResource creativeType="image/jpeg">
-              https://dummyimage.com/50x300/000/fff.jpg
+              https://dummyimage.com/50x300/ffffff/000000.jpg&text=H
               </StaticResource>
               <NonLinearClickThrough>http://www.tremormedia.com</NonLinearClickThrough>
             </NonLinear>
             <NonLinear height="50" width="450" minSuggestedDuration="00:00:20">
               <StaticResource creativeType="image/jpeg">
-              https://dummyimage.com/50x450/000/fff.jpg
+              https://dummyimage.com/50x450/ffffff/000000.jpg&text=N
               </StaticResource>
               <NonLinearClickThrough>http://www.tremormedia.com</NonLinearClickThrough>
             </NonLinear>
