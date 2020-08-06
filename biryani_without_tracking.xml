@@ -9,8 +9,8 @@
    <Impression><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvCaeXJLMUHovnFDjCx1Sbc66JB25i5LCqMRz4O37q_hsk5lypRO0a-D0FXqqIjt0iDH8H36-nk06JQ-8v_3mpFADGXGZ3knZWcSHEnEBHWhKapIeIlBNnOzjaB1kSfqE790DrQUAZ0DTwpoLcv_W8mGyXqkh-M1UMOo8Kah00-cKA1jabugkBSUT2xBX61x3jYotFl9tt-Nu5GJpAI9ypoH4CpxWPgt1G81yIuRocfGzTj1dhXdBx-XwfYCb1q-w&sai=AMfl-YQIwaKd8o3hqvlR6v4eWyQcr2obNCZK70HfRBZKFVh0w1IpDCUH4VmmrwNnoRidEl99Kx6TVHA7JBTtxTRo5ASJK53ny66wGGT-a-zBc9tW&sig=Cg0ArKJSzJ6Qai6kcu03EAE&adurl=]]></Impression>
    <Creatives>
     <Creative id="57859154776" sequence="1">
-     <Linear>
-      <Duration>00:00:10</Duration>
+     <Linear skipoffset="00:00:05">
+      <Duration>00:00:30</Duration>
       <MediaFiles>
        <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true"><![CDATA[https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4]]></MediaFile>
       </MediaFiles>
