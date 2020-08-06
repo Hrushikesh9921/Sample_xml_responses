@@ -32,7 +32,7 @@
        <ClickThrough id="GDFP"><![CDATA[https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsuRR2YcNtypESw9lx83_feJEOexoBrEAKmzmEcpBcXBQQL51TasNhovZEZKUACwr7nBw4Ywa2byRLDCa3l3J09urtBqAlS3dEkioW28Mjwf6cR_3BQxQYSSA-yu8NWaz_ok9Vjk_ngNuY3K0O18HY_FsydkjX2M64XXhsXp6ZoIBCEbXbpL359pXmUJQVQLhFojA0l3bGD_faKXok4WQmJr5waIRgZmiC-MWAI0Ou2TKZEko21uRe2-gd0&sai=AMfl-YTZX5ftVQK0lj9yb9fZWQgXaXFC6YVZACiBIro9bHYpBPJAH9pykgIhRpV-Q7u0d2eZJR3FzhgpPMfh9HEXESf3JsFcVl5BM7UlJ4tgCapx&sig=Cg0ArKJSzHW5QwYR5Wy6&adurl=https://developers.google.com/interactive-media-ads/docs/vastinspector_dual]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true"><![CDATA[http://techslides.com/demos/sample-videos/small.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true"><![CDATA[https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4]]></MediaFile>
       </MediaFiles>
      </Linear>
     </Creative>
