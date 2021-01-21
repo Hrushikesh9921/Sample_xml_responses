@@ -12,13 +12,13 @@
      <Linear skipoffset="00:00:05">
       <Duration>00:00:30</Duration>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true"><![CDATA[https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="" height="" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true"><![CDATA[https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4]]></MediaFile>
       </MediaFiles>
      </Linear>
     </Creative>
     <Creative id="57857370976" sequence="1">
      <CompanionAds>
-      <Companion id="57857370976" width="300" height="250">
+      <Companion id="57857370976" width="" height="">
        <StaticResource creativeType="image/png"><![CDATA[https://www.nicepng.com/png/full/914-9141005_about-chicken-biryani-ad.png]]></StaticResource>
        <TrackingEvents>
         <Tracking event="creativeView"><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssajWu6P1dZo8ZiMA44e8ICW3bsLPknrbj-_IcB1Ndk5oBCPQeIVM_4qnX_5Zt8qlKZAQbWBRtGS5tLlTNONXVsPm7VkCrnr9JIkJyCwK2gj-dHUTaEAOObgtJSF3DpybREqKtrimWSZR2NiNSdfdG6uC0j9T_zWR03Sv4vnasCLDM3mMnvqBh2xxwSKNygjjYEHFj-VPYvoIrYIASA45aZVrIYVmx5N8K8cdkIg9ac0zITYfd7vwABrjvnlXAU2Q&sai=AMfl-YSDrB8Krdkhs6Onqyf8pqxX21HblhRVTsKZDKsh6Ozhg0iuAZCqOWESoeX8K6agXLLfourvdMK-hYkRnLDzYJCgG4l3flo3NRH2n_PxOR4-&sig=Cg0ArKJSzDvr19cCjA9ZEAE&adurl=]]></Tracking>
