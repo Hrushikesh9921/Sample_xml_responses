@@ -1,4 +1,4 @@
-?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="2.0">
  <Ad id="697203496">
   <InLine>
@@ -10,9 +10,9 @@
    <Creatives>
     <Creative id="57859154776" sequence="1">
      <Linear skipoffset="00:00:05">
-      <Duration>00:00:27</Duration>
+      <Duration>00:00:35</Duration>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="progressive" width="1282" height="723" type="video/mp4" bitrate="468" scalable="true" maintainAspectRatio="true"><![CDATA[https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="1282" height="723" type="video/mp4" bitrate="480" scalable="true" maintainAspectRatio="true"><![CDATA[https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4]]></MediaFile>
       </MediaFiles>
      </Linear>
     </Creative>
