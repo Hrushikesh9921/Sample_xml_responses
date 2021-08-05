@@ -20,7 +20,7 @@
       <Creatives>
         <Creative id="5480" sequence="1" adId="2447226">
           <CompanionAds>
-            <Companion id="1232" width="100" height="150" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250" adSlotID="3214" pxratio="1400">
+            <Companion id="1232" width="320" height="50" assetWidth="320" assetHeight="50" expandedWidth="320" expandedHeight="50" adSlotID="3214" pxratio="1400">
               <StaticResource creativeType="image/png">
                 <![CDATA[https://www.nicepng.com/png/full/914-9141005_about-chicken-biryani-ad.png]]>
               </StaticResource>
